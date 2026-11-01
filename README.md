@@ -153,9 +153,9 @@ Additional documents will be published progressively.
 
 <div align="center">
 
-### THE VOID IS NOT THE END.
+### THE VOID IS NOT THE END
 
-### IT IS THE BEGINNING.
+### IT IS THE BEGINNING
 
 **DOCTOR VOID | THE VOID NETWORK**
 

@@ -4,11 +4,17 @@
 
 **THE VOID NETWORK · October 26, 2026**
 
-*This letter is addressed to those who have not yet been born. To those who will live a hundred, a thousand, or ten thousand years from now. And to myself — if one day I find my way back to these words.*
+---
+
+A Message to Future Humanity
+
+October 26, 2026
+
+This letter is addressed to those who have not yet been born. To those who will live a hundred, a thousand, or ten thousand years from now. And to myself — if one day I find my way back to these words.
 
 ---
 
-### Dear Earthling!
+Dear Earthling!
 
 I am twenty-nine years old. This link and this letter are for you, if you are still alive, if you have endured and are reading this. I want you to know from what darkness the light was born that now, perhaps, holds up your world.
 
@@ -22,31 +28,31 @@ And I left you this link not so that you would remember my name. But so that you
 
 ## I. The Boy the World Was Not Waiting For
 
-My life's path began in a remote village. I was born in an ordinary village. Not into a family of great scientists. Not amid wealth, universities, or laboratories. There was nothing in my childhood that people usually call the beginning of a great destiny.
+My life's journey began in a remote village. I was born in an ordinary village. Not into a family of great scientists. Not amid wealth, universities, or laboratories. There was nothing in my childhood that people usually call the beginning of a great destiny.
 
 There was poverty. There was violence. There were parents who did not know how to protect a child's soul. There were school years in which I learned to feel like an outsider before I learned to understand why people can be cruel.
 
-For years I wore the same trousers and the same sweater. I did not know what it was like to have many toys. I did not know what a carefree childhood was. But I remember Cheburashka. My toy Cheburashka — my only friend, the memory of whom warmed my soul during those cold times.
+For years, I wore the same trousers and the same sweater. I did not know what it was like to have many toys. I did not know what a carefree childhood was. But I remember Cheburashka. My toy Cheburashka — my only friend, the memory of whom warmed my soul during those cold times.
 
 The little strange hero from the cartoon about Crocodile Gena. He was just as much an outsider in this world as I was. Sometimes it seemed to me that he was my only friend. Even memories of him brought me the joy I lacked so much.
 
-In primary school I was an excellent student. I wanted to understand the world. I wanted to know why everything exists the way it does. Why some people are born surrounded by love, while others must struggle every day for the right to be alive.
+In primary school, I was an excellent student. I wanted to understand the world. I wanted to know why everything exists the way it does. Why some people are born surrounded by love, while others must struggle every day for the right to be alive.
 
-And then I turned eleven. And I died.
+And then I turned eleven. And I nearly died.
 
 ---
 
 ## II. A Few Minutes on the Other Side of Existence
 
-That day I was in a field. I was tending horses, as I had done many times. My father was drinking again. And I was only a child doing his work. I found myself among the horses. They surrounded me. One blow.
+That day, I was in a field. I was tending cows and a mare, as I had done many times before. My father was drinking again. And I was only a child doing his work. There were other horses in the field, and I found myself among them. At one moment, they began galloping around. One blow. A horse's hind hoof struck the left side of my face, just a few centimeters from my temple. A large, deep cut opened beneath my eye, and severe bleeding began.
 
-And everything disappeared. There was no light at the end of the tunnel. There were no voices. There were no heavens, angels, or great revelation. There was darkness. Absolute. Without time. Without space. Without any sense of my own body.
+Everything disappeared. There was no light at the end of the tunnel. There were no voices. There were no heavens, angels, or great revelation. There was darkness. Absolute. Without time. Without space. Without any sense of my own body.
 
-It seemed to me that I no longer existed. My battered body lay in the field. I was carried approximately a kilometer to a body of water. They tried to bring me back to life. And then my heart began beating again. I returned. As though the computer of my brain had rebooted. It seemed to me that I had been replaced.
+It seemed that I no longer existed. My battered body lay in the field. They tried to bring me back to life. And then my heart began beating again. I returned. As though the computer of my brain had rebooted. It seemed to me that I had been replaced.
 
 I do not know what really happened to my consciousness during those minutes. And I will not present what I experienced as proof of what exists after death. But I know something else. The boy who opened his eyes was no longer the boy who had closed them.
 
-A severe injury to my skull and brain changed my life. The world remained the same. But I did not.
+A severe brain injury changed my life. Several months of rehabilitation in the hospital followed, and little by little my vision returned and my body recovered. The world remained the same, but I did not.
 
 ---
 
@@ -58,7 +64,7 @@ I was not born hating my parents. I did not want to hate even those who caused m
 
 And yet I did not come to hate life. On the contrary. I loved it with a force that perhaps only someone who has lost it once can possess. I loved it not because the world had been kind to me.
 
-I loved it in spite of everything. It seemed to me that my existence had no meaning. But every morning I woke up and told myself: “If I am still alive, it means my story is not yet over.”
+I loved it in spite of everything. It seemed to me that my existence had no meaning. But every morning, I woke up and told myself: "If I am still alive, it means my story is not yet over."
 
 That was my first technology. Faith. Not religion. Not a promise of a miracle. Faith that a human being is capable of creating their own future.
 
@@ -112,7 +118,7 @@ Not all of these capabilities exist yet. Not all the technologies are complete. 
 
 I leave humanity an engineering task that must outlive its author. To create infrastructure where access to the digital economy is not determined by a person's place of birth, origins, or wealth.
 
-A network that seeks to reduce dependence on intermediaries. A network whose rules can be verified. A network where trust must rest not only on words but on transparent mechanisms, open-source code, and independent verification.
+A network that seeks to reduce dependence on intermediaries. A network whose rules can be verified. A network where trust must rest not only on words, but on transparent mechanisms, open-source code, and independent verification.
 
 I know this is only the beginning. And I know that true independence cannot be declared in a single line of code. It must be demonstrated through architecture, security, governance, and practice. That is why VOID technologies will be revealed gradually.
 
@@ -216,4 +222,4 @@ Your unknown friend from the past. Your bridge through time and eternity.
 
 **THE VOID NETWORK**
 
-*“From emptiness, possibility is born. From possibility — the future. And the future begins with you.”*
+*“From emptiness, possibility is born. From possibility — the future. And the future begins with you”*

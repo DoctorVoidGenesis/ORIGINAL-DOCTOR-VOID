@@ -67,6 +67,24 @@ This question became the beginning of VOID NETWORK.
 
 ---
 
+![Doctor Void with Coin](003%20%E2%80%94%20Doctor%20Void%20with%20Coin.png)
+
+*Doctor Void presents the symbolic VOID Energy Coin.*
+
+![Doctor Void Duo with Coins](004%20%E2%80%94%20Doctor%20Void%20Duo%20with%20Coins.png)
+
+*Two cosmic figures presenting the VOID Energy Coin.*
+
+![VOID Energy Coin](005%20%E2%80%94%20VOID%20Energy%20Coin.jpg)
+
+*Concept artwork of the VOID Energy Coin.*
+
+![VOID NETWORK Emblem](006%20%E2%80%94%20VOID%20NETWORK%20Emblem.png)
+
+*The visual emblem of the VOID NETWORK blockchain.*
+
+---
+
 ## 03 — VOID NETWORK
 
 **VOID NETWORK** is a blockchain Layer 1 project developing its own digital infrastructure.
